@@ -68,7 +68,7 @@ function ProjectsPage() {
         </div>
 
         {/* Projects Grid */}
-        <div className="grid gap-2 md:grid-cols-3 lg:grid-cols-4 sm:grid-cols-2 grid-cols-5">
+        <div className="grid gap-2 md:grid-cols-3 lg:grid-cols-4 sm:grid-cols-2">
           {filteredProjects.map((project) => (
             <ProjectCard key={project.id} project={project} />
           ))}
