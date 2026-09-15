@@ -1,8 +1,8 @@
+import Empty_Cart from "../assets/images/projects/kh-shop/Empty_Cart.png";
 import khShopHome from "../assets/images/projects/kh-shop/home_page.png";
-
-import Product_Details from "../assets/images/projects/kh-shop/product_details.png";
-import Shopping_Cart from "../assets/images/projects/kh-shop/Your_Cart.png";
+import Product_Details from "../assets/images/projects/kh-shop/Product_Details.png";
 import Products_Page from "../assets/images/projects/kh-shop/Products_Page.png";
+import Shopping_Cart from "../assets/images/projects/kh-shop/Your_Cart.png";
 
 import khalaf_Online_Store from "../assets/images/projects/khalaf_Online_Store/khalaf_Online_Store.png";
 
@@ -313,7 +313,7 @@ const projects = [
       "Product management",
     ],
 
-    screenshots: [Product_Details, Shopping_Cart, Products_Page],
+    screenshots: [Product_Details, Shopping_Cart, Products_Page, Empty_Cart],
 
     liveUrl: "https://kh-shop-e-commerce-react-app.vercel.app",
     githubUrl:
