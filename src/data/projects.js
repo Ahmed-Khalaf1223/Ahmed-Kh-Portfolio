@@ -1,32 +1,42 @@
 import khShopHome from "../assets/images/projects/kh-shop/home_page.png";
+
 import Product_Details from "../assets/images/projects/kh-shop/product_details.png";
 import Shopping_Cart from "../assets/images/projects/kh-shop/Your_Cart.png";
 import Products_Page from "../assets/images/projects/kh-shop/Products_Page.png";
+
 import khalaf_Online_Store from "../assets/images/projects/khalaf_Online_Store/khalaf_Online_Store.png";
+
 import dashboard from "../assets/images/projects/dashboard/dashboard.png";
 import dashboard2 from "../assets/images/projects/dashboard/dashboard2.png";
 import dashboard3 from "../assets/images/projects/dashboard/dashboard3.png";
 import dashboard4 from "../assets/images/projects/dashboard/dashboard4.png";
 import dashboard5 from "../assets/images/projects/dashboard/dashboard5.png";
+
 import healthy_food from "../assets/images/projects/healthy-Food/Healthy-Food.png";
+
 import lasles_vpn from "../assets/images/projects/Lasles-VPN-Service/image1.png";
 import lasles_vpn2 from "../assets/images/projects/Lasles-VPN-Service/image2.png";
 import lasles_vpn3 from "../assets/images/projects/Lasles-VPN-Service/image3.png";
 import lasles_vpn4 from "../assets/images/projects/Lasles-VPN-Service/image4.png";
-import Leon_Template1 from "../assets/images/projects/website-template_Leon-Template/image1.png";
-import Leon_Template2 from "../assets/images/projects/website-template_Leon-Template/image2.png";
-import Leon_Template3 from "../assets/images/projects/website-template_Leon-Template/image3.png";
-import Leon_Template4 from "../assets/images/projects/website-template_Leon-Template/image4.png";
-import Leon_Template5 from "../assets/images/projects/website-template_Leon-Template/image5.png";
+
+import Leon_Template1 from "../assets/images/projects/leon-Template/image1.png";
+import Leon_Template2 from "../assets/images/projects/leon-Template/image2.png";
+import Leon_Template3 from "../assets/images/projects/leon-Template/image3.png";
+import Leon_Template4 from "../assets/images/projects/leon-Template/image4.png";
+import Leon_Template5 from "../assets/images/projects/leon-Template/image5.png";
+
 import kasper_template1 from "../assets/images/projects/kasper-template/image1.png";
 import kasper_template2 from "../assets/images/projects/kasper-template/image2.png";
 import kasper_template3 from "../assets/images/projects/kasper-template/image3.png";
 import kasper_template4 from "../assets/images/projects/kasper-template/image4.png";
 import kasper_template5 from "../assets/images/projects/kasper-template/image5.png";
+
 import calculator1 from "../assets/images/projects/calculator/image1.png";
 import calculator2 from "../assets/images/projects/calculator/image2.png";
+
 import todoApp1 from "../assets/images/projects/todo-app/image1.png";
 import todoApp2 from "../assets/images/projects/todo-app/image2.png";
+
 import special_design1 from "../assets/images/projects/special-design/image1.png";
 import special_design2 from "../assets/images/projects/special-design/image2.png";
 import special_design3 from "../assets/images/projects/special-design/image3.png";
